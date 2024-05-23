@@ -1,0 +1,14 @@
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\bin\Debug\net8.0\RepositoryPattern.Database.deps.json
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\bin\Debug\net8.0\RepositoryPattern.Database.runtimeconfig.json
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\bin\Debug\net8.0\RepositoryPattern.Database.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\bin\Debug\net8.0\RepositoryPattern.Database.pdb
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.csproj.AssemblyReference.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.AssemblyInfoInputs.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.AssemblyInfo.cs
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.csproj.CoreCompileInputs.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\refint\RepositoryPattern.Database.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.pdb
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\RepositoryPattern.Database.genruntimeconfig.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Database\obj\Debug\net8.0\ref\RepositoryPattern.Database.dll

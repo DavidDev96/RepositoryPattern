@@ -1,0 +1,15 @@
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\bin\Debug\net8.0\RepositoryPattern.Repository.deps.json
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\bin\Debug\net8.0\RepositoryPattern.Repository.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\bin\Debug\net8.0\RepositoryPattern.Repository.pdb
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\bin\Debug\net8.0\RepositoryPattern.Database.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\bin\Debug\net8.0\RepositoryPattern.Database.pdb
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.csproj.AssemblyReference.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.AssemblyInfoInputs.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.AssemblyInfo.cs
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.csproj.CoreCompileInputs.cache
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.csproj.CopyComplete
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\refint\RepositoryPattern.Repository.dll
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\RepositoryPattern.Repository.pdb
+C:\DEV_Privat\Code_Coach\RepositoryPattern\RepositoryPattern\RepositoryPattern.Repository\obj\Debug\net8.0\ref\RepositoryPattern.Repository.dll
